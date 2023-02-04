@@ -1,0 +1,24 @@
+Git
+
+- Controle de versão
+- Armazenamento em nuvem
+- Trabalho em equipe
+- Formar de melhor seu código
+
+Comandos básicos
+
+windowns	Unix
+ - cd		 - cd 		(navegar entre pastas)
+ - dir		 - ls 		(listar)
+ - mkdir 	 - mkdir 	(cria uma pasta)
+ - del/rmdir	 - rm -rf 	(remove uma pasta)
+ - cls 		 - clear	(limpa o terminal)
+
+Tópicos Fundamentais
+
+- SHA: algoritmo de codificação
+- Blobs: armazena dados com cometadados
+- TREES: armazena blobs
+- Commit: significa a alteração com informações como o autor, descrição, data e conteúdo
+	  própriamente dito
+
